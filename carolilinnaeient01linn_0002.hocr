@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carolilinnaeient01linn_0002.png"; bbox 0 0 1772 2860; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 698 769 1643 980">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 698 769 1643 1003">
+     <span class='ocr_line' id='line_1_1' title="bbox 817 769 1410 842; baseline -0.012 1"><span class='ocrx_word' id='word_1_1' title='bbox 817 769 820 773; x_wconf 45' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 931 801 1154 841; x_wconf 68' lang='lat' dir='ltr'>UNITED</span> <span class='ocrx_word' id='word_1_3' title='bbox 1179 802 1410 842; x_wconf 71' lang='lat' dir='ltr'>STATES</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 698 869 1643 929; baseline 0.001 -20"><span class='ocrx_word' id='word_1_4' title='bbox 698 869 1119 912; x_wconf 61' lang='lat' dir='ltr'>DEPARmOENT</span> <span class='ocrx_word' id='word_1_5' title='bbox 1133 870 1643 929; x_wconf 63' lang='lat' dir='ltr'>OFAGRICULTURE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1038 936 1440 980; baseline -0.007 -2"><span class='ocrx_word' id='word_1_6' title='bbox 1038 937 1307 980; x_wconf 69' lang='lat' dir='ltr'>LIBRARY</span> <span class='ocrx_word' id='word_1_7' title='bbox 1419 936 1440 967; x_wconf 30' lang='lat' dir='ltr'>ss</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 925 923 946 952">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 925 923 946 952">
+     <span class='ocr_line' id='line_1_4' title="bbox 925 923 946 952; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 925 923 946 952; x_wconf 47' lang='grc' dir='ltr'>χι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 701 1053 1501 2036">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 701 1053 1501 2036">
+     <span class='ocr_line' id='line_1_5' title="bbox 701 1053 1501 2036; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 701 1053 1501 2036; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
